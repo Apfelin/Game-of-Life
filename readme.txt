@@ -35,7 +35,5 @@ Din linia de comanda, se lanseaza programul astfel:
 
 e.g.: Game_of_Life 4 2000 input.text output.txt (Windows)
       ./Game_of_Life 4 2000 input.txt output.txt (Linux)
-
-Codul sursa disponibil si pe GitHub:
-
-	http://
+      
+Programul functioneaza acum si prin lansarea directa a executabilului.
